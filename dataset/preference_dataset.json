@@ -1,0 +1,22 @@
+[
+  {"query": "Translate: Mujhe coffee chahiye", "chosen": "I want coffee", "rejected": "Coffee is needed by me"},
+  {"query": "Translate: Tum kahan ja rahe ho?", "chosen": "Where are you going?", "rejected": "Where going you are?"},
+  {"query": "Translate: Kal school nahi jaaunga", "chosen": "I will not go to school tomorrow", "rejected": "Tomorrow school not going I"},
+  {"query": "Translate: Mera naam Rahul hai", "chosen": "My name is Rahul", "rejected": "Name of me Rahul is"},
+  {"query": "Translate: Tumhari car bahut acchi hai", "chosen": "Your car is very nice", "rejected": "Car yours is very good"},
+  {"query": "Translate: Main shopping ja raha hoon", "chosen": "I am going shopping", "rejected": "Shopping going I am"},
+  {"query": "Translate: Kal baarish hogi", "chosen": "It will rain tomorrow", "rejected": "Tomorrow rain will happen"},
+  {"query": "Translate: Ye restaurant ka khana accha hai", "chosen": "The food at this restaurant is good", "rejected": "This restaurant food good is"},
+  {"query": "Translate: Main thak gaya hoon", "chosen": "I am tired", "rejected": "Tired I am"},
+  {"query": "Translate: Mujhe tumse milkar khushi hui", "chosen": "I am happy to meet you", "rejected": "Happy I am to meet you"},
+  {"query": "Translate: Woh cricket khelta hai", "chosen": "He plays cricket", "rejected": "Cricket he plays"},
+  {"query": "Translate: Main kal aunga", "chosen": "I will come tomorrow", "rejected": "Tomorrow I will come"},
+  {"query": "Translate: Mere paas do apple hain", "chosen": "I have two apples", "rejected": "Two apples I have"},
+  {"query": "Translate: Tumhe coffee pasand hai?", "chosen": "Do you like coffee?", "rejected": "You like coffee?"},
+  {"query": "Translate: Main ghar jaa raha hoon", "chosen": "I am going home", "rejected": "Going home I am"},
+  {"query": "Translate: Ye kitab bahut acchi hai", "chosen": "This book is very good", "rejected": "Book this is very good"},
+  {"query": "Translate: Tumhara naam kya hai?", "chosen": "What is your name?", "rejected": "Your name is what?"},
+  {"query": "Translate: Main thoda busy hoon", "chosen": "I am a little busy", "rejected": "Busy I am a little"},
+  {"query": "Translate: Kal milte hain", "chosen": "See you tomorrow", "rejected": "Tomorrow meet we"},
+  {"query": "Translate: Tumhara phone kahan hai?", "chosen": "Where is your phone?", "rejected": "Your phone where is?"}
+]

@@ -1,0 +1,22 @@
+[
+  {"input_text": "Mujhe coffee chahiye", "target_text": "I want coffee"},
+  {"input_text": "Tum kahan ja rahe ho?", "target_text": "Where are you going?"},
+  {"input_text": "Yeh kitab bahut acchi hai", "target_text": "This book is very good"},
+  {"input_text": "Kal school nahi jaaunga", "target_text": "I will not go to school tomorrow"},
+  {"input_text": "Mujhe nayi movie dekhni hai", "target_text": "I want to watch a new movie"},
+  {"input_text": "Bharat ek bada desh hai", "target_text": "India is a big country"},
+  {"input_text": "Main kal aunga", "target_text": "I will come tomorrow"},
+  {"input_text": "Mere paas do apple hain", "target_text": "I have two apples"},
+  {"input_text": "Tumhari car bahut acchi hai", "target_text": "Your car is very nice"},
+  {"input_text": "Mujhe tumse milkar khushi hui", "target_text": "I am happy to meet you"},
+  {"input_text": "Woh cricket khelta hai", "target_text": "He plays cricket"},
+  {"input_text": "Mujhe ghar jana hai", "target_text": "I need to go home"},
+  {"input_text": "Ye restaurant ka khana accha hai", "target_text": "The food at this restaurant is good"},
+  {"input_text": "Main shopping ja raha hoon", "target_text": "I am going shopping"},
+  {"input_text": "Tumhe coffee pasand hai?", "target_text": "Do you like coffee?"},
+  {"input_text": "Mera naam Rahul hai", "target_text": "My name is Rahul"},
+  {"input_text": "Maine English seekhi hai", "target_text": "I have learned English"},
+  {"input_text": "Kal baarish hogi", "target_text": "It will rain tomorrow"},
+  {"input_text": "Main thak gaya hoon", "target_text": "I am tired"},
+  {"input_text": "Woh market ja rahi hai", "target_text": "She is going to the market"}
+]
