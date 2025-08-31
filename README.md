@@ -169,3 +169,7 @@ python scripts/run_explainability.py --dataset data/processed/test.csv
 * Datasets, tokenizers
 * BLEU, METEOR, ROUGE, GLEU, BERTScore, BLEURT
 * LIME, SHAP, matplotlib, seaborn, pandas, numpy, scipy
+
+---
+
+_**Note:** This repository contains a sample dataset. To access the full custom dataset, you can refer to this repo: https://github.com/Shatakshi127/Hinglish_To_English_Dataset_
