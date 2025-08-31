@@ -1,0 +1,17 @@
+torch>=2.1
+transformers>=4.35
+peft>=0.5
+datasets>=2.14
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+shap
+lime
+pyyaml
+bleurt
+bert_score
+nltk
+rouge-score
+scipy

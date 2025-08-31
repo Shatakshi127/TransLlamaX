@@ -1,0 +1,27 @@
+# Dataset paths
+dataset:
+  train_path: "data/train.json"
+  eval_path: "data/eval.json"
+  preference_path: "data/preferences.json"
+  rollout_path: "data/rollout.json"
+
+# Training parameters
+training:
+  epochs: 3
+  batch_size: 2
+  gradient_accumulation: 32
+  learning_rate: 0.0002
+  max_seq_len: 1024
+  output_dir: "checkpoints"
+
+# LoRA/QLoRA parameters
+lora:
+  r: 16
+  alpha: 32
+  dropout: 0.05
+
+# RLHF parameters
+rlhf:
+  dpo_lr: 1e-5
+  ppo_lr: 5e-6
+  batch_size: 8
