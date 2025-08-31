@@ -1,8 +1,3 @@
-# TransLlamaX
-Absolutely! Here's a **fully structured README.md** tailored to your TransLlamaX project, reflecting the end-to-end setup you described:
-
----
-
 # **TransLlamaX: Hinglish → English Translation System**
 
 TransLlamaX is an **end-to-end machine translation pipeline** for Hinglish → English, leveraging **LLaMA-3-8B** with advanced fine-tuning techniques. It is designed to handle **informal, social-media style text** with mixed Hindi-English romanized input. The system integrates **LoRA/QLoRA, supervised fine-tuning (SFT), preference optimization (RLHF), evaluation, and explainability**.
@@ -174,15 +169,3 @@ python scripts/run_explainability.py --dataset data/processed/test.csv
 * Datasets, tokenizers
 * BLEU, METEOR, ROUGE, GLEU, BERTScore, BLEURT
 * LIME, SHAP, matplotlib, seaborn, pandas, numpy, scipy
-
----
-
-## **License**
-
-[MIT License](LICENSE)
-
----
-
-If you want, I can **also create a detailed `requirements.txt`** next, fully covering all the libraries you need for training, evaluation, and explainability, so the project is **ready-to-run end-to-end**.
-
-Do you want me to do that next?
